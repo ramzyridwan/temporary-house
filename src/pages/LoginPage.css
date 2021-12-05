@@ -1,0 +1,143 @@
+.container{
+    max-width: 970px;
+}
+
+.text-align-center{
+    text-align:center;
+    font-family: 'pacifico', cursive;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.text-align-left{
+    text-align:left;
+    font-family: 'pacifico', cursive;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.text-align-right{
+    text-align:right;
+    font-family: 'pacifico', cursive;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.text-align-justify{
+    text-align:justify;
+    font-family: 'pacifico', cursive;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.font-size1{
+    font-size: 16px;
+}
+
+.font-size2{
+    font-size: 28px;
+}
+
+.background-color{
+    background-color: #F3F3F3;
+    border-radius: 20px;
+}
+
+.padding-form{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+}
+
+.padding-text{
+    padding-left: 50px;
+}
+
+.padding-text{
+    padding-right: 30px;
+}
+
+.margin-text{
+    margin-bottom: 80px;
+}
+
+
+.middle-form{
+    margin-top: 140px;
+}
+
+.login-side{
+    margin-top: 25px;
+}
+
+.middle-input{
+    text-align: center;
+    border-radius: center;
+    align-items: 10px!important;
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 15px !important;
+}
+
+.margin-input{
+    margin-bottom: 20px;
+}
+
+.button-margin{
+    margin-top: 20px;
+    margin-bottom: 13px;
+}
+
+.register{
+    text-align: left;
+    color: #000000;
+    padding-left: 25px !important;
+    font-family: 'Nunito', sans-serif;
+}
+
+.forgotPassword{
+    text-align: center;
+    color: #000000;
+    font-family: 'Nunito', sans-serif;
+}
+
+.signIn{
+    text-align: right;
+    color: #000000;
+    padding-right: 25px !important;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 50%;
+    border-color: black;
+}
+
+.image-icon{
+   width: 26px;
+    height: 25px;
+    margin-top: 61px;
+    justify-content: center;
+}
+
+.image-Login{
+    border-radius: 20px;
+    height: 565px !important;
+    align-items: end !important;
+}
+
+.card-padding{
+    padding-right: 500px;
+}
+
+.colmd-padding{
+    padding: 0px 0px !important;
+    margin: 0px 0px !important;
+}
+
+.login-with{
+
+}
+
+.login-logo{
+    width: 60px;
+}

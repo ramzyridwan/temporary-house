@@ -1,0 +1,168 @@
+.navbar-border{
+    border-bottom: 3px solid !important;
+}
+
+.navbar-content{
+    margin-right: 723px !important;
+}
+
+.navbar-middle{
+    text-align: center;
+}
+
+.container-navbar{
+    max-width: 25% !important;
+}
+
+.title{
+    margin-top: 170px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    color: #152C5B;
+}
+
+.container-body{
+    max-width: 90% !important;
+}
+
+.container-body1{
+    max-width: 53% !important;
+}
+
+
+.image-body{
+    justify-content: center;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.image-house{
+    max-width: 30% !important;
+    max-height: 30% !important;
+    border-radius: 10%;
+}
+
+.image-row1{
+    margin-bottom: 30px;
+}
+
+.house-detail{
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.desc-text{
+    width: 98%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title-detail{
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-person{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+.icon-desc{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.desc-margin{
+    margin-bottom: 30px;
+}
+
+.card-content{
+    text-align: center;
+    justify-content: center;
+}
+
+.house-price{
+    margin-right: 50px;
+}
+
+.button-booking{
+    background-color: #152C5B !important;
+    color: #FFFFFF !important;
+    font-size: 16px !important;
+    padding-right: 80px !important;
+    padding-left: 80px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    border-radius: 20px !important;
+}
+
+.icon1{
+    justify-content: center;
+    text-align: center;
+}
+
+
+.icon2{
+    justify-content: center;
+    text-align: center;
+}
+
+
+.icon3{
+    justify-content: center;
+    text-align: center;
+}
+
+
+.icon4{
+    justify-content: center;
+    text-align: center;
+}
+
+.center-footer{
+    justify-content: center;
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container-other{
+    max-width: 150% !important;
+}
+
+.others{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.others-title{
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #152C5B;
+    font-size: 22px;
+}
+
+.navbar-text{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.footer-text{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-title{
+    color: #152C5B;
+}
+
+.navbar-desc{
+    color: #B0B0B0;
+}
+
+.navbar-border{
+    border-top: #E5E5E5;
+}

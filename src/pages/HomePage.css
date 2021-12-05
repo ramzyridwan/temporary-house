@@ -1,0 +1,12 @@
+.container{
+    max-width: 970px;
+}
+
+.brand-logo{
+    width: 20%px;
+    height: 20%px;
+}
+
+.sign-in{
+    border-radius: 20px;
+}
